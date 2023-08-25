@@ -1,0 +1,8 @@
+<h1>Deploy a cluster Kubernetes</h1>
+<hr />
+<p>Manage an autoscaling management deployment based on Queue size using the KEDA operator, in this case using AWS SQS as an example</p>
+
+ - requirements
+ - Deploy AWS infraestructure (Network infra) and Kubernetes Cluster (EKS).
+ - Deploy AWS SQS for 
+

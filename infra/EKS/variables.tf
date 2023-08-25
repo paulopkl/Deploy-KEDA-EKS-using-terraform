@@ -1,19 +1,19 @@
 variable "cluster_name" {
     type = string
     default = "eks-demo"
-    description = ""
+    description = "Cluster nameS"
 }
 
 variable "region" {
     type = string
     default = "us-east-1"
-    description = ""
+    description = "AWS Region"
 }
 
 variable "kubernetes_version" {
     type = string
     default = "1.23"
-    description = ""
+    description = "Kubernetes version"
 }
 
 variable "min_size" {
