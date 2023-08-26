@@ -54,7 +54,7 @@ $ cd ./infra/EKS/
 $ make exec
 ```
 
-### Deploy EKS
+### Set EKS as default context for kubectl
 
 Update your kubectl context.
 
